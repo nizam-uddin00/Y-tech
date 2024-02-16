@@ -1,0 +1,100 @@
+/* this applies to whole body */
+body{ 
+    color:#540d6e;
+    background-color:#fac768;
+    font-family:  Verdana,Tahoma, Geneva, sans-serif;
+}
+/* This is Company Name */
+#header1{
+    background-color:yellow;
+    padding-top: 2vh;
+    padding-bottom: 2vh; 
+    width: 98vw;
+    display:inline-block;
+}
+#item0{
+    font-size:3vw;
+    text-decoration: none;
+    color:#540d6e;
+    text-align:left;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+#img{
+    position: absolute;
+    width: 7vw;
+    top:5vh;
+    right:1vw;
+}
+/* This is navigation bar */
+#header2{
+    display:inline-block;
+    color:yellow;
+    background-color: #0f1111;
+    height:1.5vw;
+    width: 97vw;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding:.5%;
+    text-align: left;
+}
+.heada{
+    text-decoration:none;
+    font-size:90%;
+    color:yellow;
+    padding-right: 9.5vw;
+    padding-left: 9.5vw;
+    border-right:#ffffff .3vw ridge;
+}
+#button1{
+    margin-left: 9.5vw;
+    height:20px;
+    width:70px;
+    color: white;
+    background-color: #000000;
+    border: 1px ridge yellow;
+}
+#button2{
+    height:20px;
+    width:70px;
+    color:white;
+    background-color: #000000;
+    border: 1px ridge yellow;
+}
+/* this is video section */
+#videoh{
+    text-align: left;
+    margin-left: 100px;
+}
+.video{
+    text-align: center;
+    margin-bottom: 150px;
+    margin-left: 100px;
+    display:inline-block;
+}
+/* This is footer */
+#shape{   
+    border-color:#0f1111 ;
+    border-style: ridge;
+    background-color:#ffffff;
+    padding-bottom:20px;
+    text-align:center;
+    padding-top: 20px;
+    padding-bottom:5px;
+}
+/* social media contacts */
+.contacts {
+    margin-right:100px;
+    margin-left:100px;
+}
+/* ending text */
+#text{
+    font-family:'Courier New', Courier, monospace;
+    font-size: larger;
+    color:#000000;
+    padding-bottom: 0%;
+    margin-bottom: 0px;
+}

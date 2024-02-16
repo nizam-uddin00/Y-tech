@@ -1,0 +1,78 @@
+/* whole body format */
+body{
+    text-align: center;
+    border: #540d6e;
+}
+/* this form has no header */
+#div{
+    display:inline-block;
+    width: 30vw;
+    background-color: #fac768;
+    border-radius: 30px;
+    border-width: 5px;
+    padding:.1%;
+}
+/* y tech heading */
+header{
+    background-color: yellow;
+    padding-top: 2px;
+    border-radius:25px;
+}
+/* log in heading */
+#head{
+    text-decoration: none;
+    color:#540d6e;
+    font-size: 2vw;
+    margin-top: 0px;
+}
+/* this is main */
+#mainh{
+    color:#000000;
+    font-size: 2vw;
+    margin-top: 0px;
+}
+.label{
+    text-align: left;
+}
+#input1{
+    width:30.5%;
+    margin:1%;
+    height:25px;
+}
+#input2{
+    width:65%;
+    margin:1%;
+    height:25px;
+}
+#input3{
+    width:65%;
+    height:40px;
+    margin:1%;
+}
+/* this applies to all of 3 inputs */
+input{
+    border-radius: 5px;
+}
+#text{
+    color:#ae2cdd;
+    font-size: 20px;
+}
+/* thiis<a> inside <p> */
+#a1{
+    text-decoration: none;
+    color:rgb(6, 22, 143);
+    font-size: 20px;
+}
+button{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size:20px;
+    font-weight: 900;
+    background-color: yellow;
+    color:#540d6e;
+    border-radius: 5px;
+    border-color: #540d6e;
+    border-width: 3px;
+}
